@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alislamor
+- 👋 Hi, I’m NIkita
 - 👀 I’m interested in gamedev and programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java/Android project or start my way in gamedev. I've learned basis of Unreal (blue print).
